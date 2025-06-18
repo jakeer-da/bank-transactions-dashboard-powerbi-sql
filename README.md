@@ -35,7 +35,7 @@ Visual	Description
 
 📸 Dashboard Snapshots
 
-🔹 Full Dashboard View
+🔹 Full Dashboard View - Bank_Transactions_Dashboard-1.PNG
 🔹 Expanded View with Branch & Bank Comparisons
 🔹 Monthly Transactions
 🔹 Weekly Transactions
