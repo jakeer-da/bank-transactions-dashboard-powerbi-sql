@@ -37,7 +37,7 @@ Visual	Description
 
 Here is a screenshot of my Power BI dashboard:
 
-![Dashboard Screenshot](bank-transactions-dashboard-powerbi-sql.png)
+![Dashboard Screenshot](Bank_Transactions_Dashboard-1.PNG)
 
 📸 Dashboard Snapshots
 
