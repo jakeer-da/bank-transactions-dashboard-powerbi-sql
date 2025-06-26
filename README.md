@@ -33,6 +33,12 @@ Visual	Description
 🏦 Bank Comparison:	Total transaction volume by bank
 📆 Monthly & Weekly Trends:	Line graphs showing transaction trends across time periods
 
+## 📊 Dashboard Preview
+
+Here is a screenshot of my Power BI dashboard:
+
+![Dashboard Screenshot](bank-transactions-dashboard-powerbi-sql.png)
+
 📸 Dashboard Snapshots
 
 🔹 Full Dashboard View
