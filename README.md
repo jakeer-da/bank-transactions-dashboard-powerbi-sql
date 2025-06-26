@@ -50,8 +50,8 @@ Visual	Description
 
 Here is a screenshot of my Power BI dashboard:
 
-![Dashboard Screenshot](Bank_Transactions_Dashboard-1.PNG)
-![Dashboard Screenshot](Bank_Transactions_Dashboard-2.PNG)
+![Dashboard Screenshot](Bank_Transactions_Dashboad-1.PNG)
+![Dashboard Screenshot](Bank_Transactions_Dashboad-2.PNG)
 
 ##  📸 Dashboard Snapshots
 
