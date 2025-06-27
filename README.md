@@ -46,18 +46,13 @@ Visual	Description
 
 📆 Monthly & Weekly Trends:	Line graphs showing transaction trends across time periods
 
-##  📊 Dashboard Preview
-
-Here is a screenshot of my Power BI dashboard:
-
-![Dashboard Screenshot](Bank_Transactions_Dashboad-1.PNG)
-![Dashboard Screenshot](Bank_Transactions_Dashboad-2.PNG)
-
 ##  📸 Dashboard Snapshots
 
 🔹 Full Dashboard View
+![Dashboard Screenshot](Bank_Transactions_Dashboad-1.PNG)
 
 🔹 Expanded View with Branch & Bank Comparisons
+![Dashboard Screenshot](Bank_Transactions_Dashboad-2.PNG)
 
 🔹 Monthly Transactions
 
