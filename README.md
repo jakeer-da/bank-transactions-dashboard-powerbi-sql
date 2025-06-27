@@ -1,4 +1,4 @@
-# bank-transactions-dashboard-powerbi-sql
+## bank-transactions-dashboard-powerbi-sql
 
 ### 🏦 Bank Credit & Debit Transactions Dashboard – SQL + Power BI
 
@@ -122,3 +122,9 @@ https://github.com/jakeer-da/bank-transactions-dashboard-powerbi-sql
 
 ### 👨‍💻 Author
 **Syed Jakeeer Hussin**  
+
+### 📎 License
+
+This project is for educational and demonstration purposes only. 
+
+All data used is fictional or anonymized.
