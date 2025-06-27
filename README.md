@@ -1,12 +1,12 @@
 # bank-transactions-dashboard-powerbi-sql
 
-## 🏦 Bank Credit & Debit Transactions Dashboard – SQL + Power BI
+### 🏦 Bank Credit & Debit Transactions Dashboard – SQL + Power BI
 
 An interactive analytics dashboard designed using SQL and Power BI to explore and visualize banking transactions. 
 This project focuses on credit and debit trends, customer behavior, and financial KPIs across multiple dimensions such as time, branch, and bank.
 
 
-## 📌 Project Overview
+### 📌 Project Overview
 
 This dashboard provides actionable insights into:
 Transaction types (Credit vs Debit)
@@ -15,9 +15,9 @@ Customer behavior across days, weeks, and months
 Branch performance and bank-level volumes
 Key financial ratios and activity metrics
 
-🔧 Built with real-world logic to simulate a banking environment, this project is ideal for showcasing SQL + Power BI integration in financial analytics.
+Built with real-world logic to simulate a banking environment, this project is ideal for showcasing SQL + Power BI integration in financial analytics.
 
-## 🛠️ Tools & Technologies Used
+### 🛠️ Tools & Technologies Used
 
 📌 SQL – Data transformation, filtering, grouping, and KPI logic
 
@@ -28,7 +28,7 @@ Key financial ratios and activity metrics
 📌 Excel/CSV – Source data storage and schema mapping
 
 
-##  📊 Dashboard Features
+###  📊 Dashboard Features
 
 Visual	Description
 
@@ -46,7 +46,7 @@ Visual	Description
 
 📆 Monthly & Weekly Trends:	Line graphs showing transaction trends across time periods
 
-##  📸 Dashboard Snapshots
+###  📸 Dashboard Snapshots
 
 🔹 Full Dashboard View
 ![Dashboard Screenshot](Bank_Transactions_Dashboad-1.PNG)
@@ -58,7 +58,7 @@ Visual	Description
 
 🔹 Weekly Transactions
 
-##  🔍 Key Insights
+###  🔍 Key Insights
 
 💡 Transaction volume is consistent across methods (~33% each).
 
@@ -72,7 +72,7 @@ Visual	Description
 
 💡 Specific banks (e.g., Kotak, Axis) lead in total volume.
 
-##  📤 How to Run This Project
+###  📤 How to Run This Project
 
 📌 Load the dataset into your SQL environment and execute transformation queries.
 
@@ -82,7 +82,7 @@ Visual	Description
 
 📌 Refresh visuals and interact using slicers for Day, Week, Month, Branch, Method, etc.
 
-##  💼 Portfolio Value
+###  💼 Portfolio Value
 
 #### This project demonstrates:
 
@@ -96,11 +96,11 @@ Visual	Description
 
 🗂️ Clean, vibrant dashboard design
 
-## 🔗 Project Link
+### 🔗 Project Link
 
 https://github.com/jakeer-da/bank-transactions-dashboard-powerbi-sql
 
-## 🙋‍♂️ About Me
+### 🙋‍♂️ About Me
 
 **Syed Jakeeer Hussin** 
 
@@ -108,7 +108,7 @@ https://github.com/jakeer-da/bank-transactions-dashboard-powerbi-sql
 
 📊 Skilled in SQL, Power BI Python(Basics), and Excel for end-to-end analytics solutions.
 
-## 💼 Core Competencies
+### 💼 Core Competencies
 
 | Skill Area             | Tools & Technologies                                       |
 |------------------------|------------------------------------------------------------|
@@ -120,5 +120,5 @@ https://github.com/jakeer-da/bank-transactions-dashboard-powerbi-sql
 | **Dashboard Design**   | Interactive layouts, slicers, filters, drill-through views |
 | **Tools & Platforms**  | Jupyter Notebook, Google Colab, GitHub, Excel, Power BI Service    
 
-## 👨‍💻 Author
+### 👨‍💻 Author
 **Syed Jakeeer Hussin**  
