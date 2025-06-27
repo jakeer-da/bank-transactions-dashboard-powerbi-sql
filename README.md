@@ -17,7 +17,7 @@ Key financial ratios and activity metrics
 
 🔧 Built with real-world logic to simulate a banking environment, this project is ideal for showcasing SQL + Power BI integration in financial analytics.
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies Used
 
 📌 SQL – Data transformation, filtering, grouping, and KPI logic
 
